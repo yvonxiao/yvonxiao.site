@@ -1,1 +1,2 @@
 # yvonxiao.site
+static website
